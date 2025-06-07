@@ -34,8 +34,8 @@ I'd love to hear from you!
 ---
 
 ### 😄 Fun Fact
-
-> “I treat bugs like side quests — unexpected, mysterious, and always worth solving.” 🐛✨
+> 🛠 I break things just to see how they work — then rebuild them better.
+🧩 My favorite bug? The one I just fixed. 🔧🐛💡
 
 ---
 
