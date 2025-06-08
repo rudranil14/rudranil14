@@ -1,4 +1,8 @@
-<h1 align="center">Hey there, I'm Rudranil 👋</h1>
+<h1 align="center">
+  Hey there, I'm Rudranil
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle" alt="waving hand"/>
+</h1>
+
 <p align="center">💻 Code lover | 🌐 Web enthusiast | 🧠 Lifelong learner</p>
 
 <p align="center">
