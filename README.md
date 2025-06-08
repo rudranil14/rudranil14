@@ -9,25 +9,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Django+%7C+JavaScript;Web+Dev+%7C+Automation+%7C+Open+Source;Always+curious+to+learn+more+%F0%9F%92%AD" alt="Typing animation" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&multiline=true&width=435&lines=🚀+I'm+currently+working+on+Web+Projects;🌱+Learning+Python%2C+Django%2C+JavaScript;🤝+Looking+to+collaborate+on+Open+Source;💬+Ask+me+about+React%2C+Django%2C+Git;⚡+Fun+fact%3A+I+love+debugging" />
-</p>
-
-<p align="right">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/octocat-developer.svg" width="300" />
-</p>
 
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working with *Java, **Python, **Django, and **JavaScript*
-- 🌟 I enjoy building fast, interactive frontends using *React, **Vite, and **Bootstrap*
-- 🛠 Automation is my thing — I love optimizing workflows
-- 💡 Constantly exploring how things work under the hood
-- 🗣 I love sharing knowledge and collaborating on open source
+<table>
+  <tr>
+    <td>
 
+- 🔭 I’m currently working with *Java, Python, Django, and JavaScript*  
+- 🌟 I enjoy building fast, interactive frontends using *React, Vite, and Bootstrap*  
+- 🛠 Automation is my thing — I love optimizing workflows  
+- 💡 Constantly exploring how things work under the hood  
+- 🗣 I love sharing knowledge and collaborating on open source  
+
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="developer gif" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠 Tech Toolbox
