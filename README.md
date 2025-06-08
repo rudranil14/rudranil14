@@ -56,5 +56,6 @@ I'd love to hear from you!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rudranil14&theme=tokyonight&area=true&hide_border=true" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudranil14&theme=tokyonight&area=true&hide_border=true" width="96%"/>
 </p>
+
