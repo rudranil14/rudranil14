@@ -2,7 +2,7 @@
 <p align="center">💻 Code lover | 🌐 Web enthusiast | 🧠 Lifelong learner</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+Django+%7C+JavaScript;Web+Dev+%7C+Automation+%7C+Open+Source;Always+curious+to+learn+more+%F0%9F%92%AD" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Django+%7C+JavaScript;Web+Dev+%7C+Automation+%7C+Open+Source;Always+curious+to+learn+more+%F0%9F%92%AD" alt="Typing animation" />
 </p>
 
 ---
