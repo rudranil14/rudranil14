@@ -1,6 +1,10 @@
 <h1 align="center">Hey there, I'm Rudranil 👋</h1>
 <p align="center">💻 Code lover | 🌐 Web enthusiast | 🧠 Lifelong learner</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+Django+%7C+JavaScript;Web+Dev+%7C+Automation+%7C+Open+Source;Always+curious+to+learn+more+%F0%9F%92%AD" alt="Typing animation" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -34,8 +38,13 @@ I'd love to hear from you!
 ---
 
 ### 😄 Fun Fact
-> 🛠 I break things just to see how they work — then rebuild them better.
+
+> 🛠 I break things just to see how they work — then rebuild them better.  
 🧩 My favorite bug? The one I just fixed. 🔧🐛💡
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3c0M3o3NzM3NGdvMmZxN3oyYmsxanY4cHk5dHRiaWZ5bXRuZGFxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="300" alt="Coding gif"/>
+</p>
 
 ---
 
@@ -46,4 +55,6 @@ I'd love to hear from you!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranil14&theme=tokyonight" width="48%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rudranil14&theme=tokyonight&area=true&hide_border=true" width="96%"/>
+</p>
