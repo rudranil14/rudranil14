@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Currently+working+on+cool+projects;🌱+Learning+Django%2C+React+%26+More;🤝+Open+to+collaborations;💬+Ask+me+about+Java+or+Python;⚡+Fun+fact%3A+I+love+debugging!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Currently+working+on+awesome+projects;🌱+Learning+Django%2C+React%2C+and+more;🤝+Open+to+collaborations;💬+Ask+me+about+Java%2C+Python%2C+Git;⚡+Fun+fact:+I+love+debugging!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/octocat-developer.svg" width="300" />
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/octocat-developer.svg" width="300" />
 </p>
 
 
